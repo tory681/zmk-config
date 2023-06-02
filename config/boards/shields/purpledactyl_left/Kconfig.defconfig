@@ -1,6 +1,6 @@
 # Copyright (c) 2021 The ZMK Contributors
 # SPDX-License-Identifier: MIT
-if SHIELD_PURPLEDACTYL
+if SHIELD_PURPLEDACTYL_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "PurpleDactyl"
